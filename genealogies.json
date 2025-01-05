@@ -1,0 +1,103 @@
+{
+    "Masoretic": {
+        "genealogy": [
+            { "name": "Adam", "beget": 130, "after": 800, "total": 930 },
+            { "name": "Seth", "beget": 105, "after": 807, "total": 912 },
+            { "name": "Enosh", "beget": 90, "after": 815, "total": 905 },
+            { "name": "Kenan", "beget": 70, "after": 840, "total": 910 },
+            { "name": "Mahalalel", "beget": 65, "after": 830, "total": 895 },
+            { "name": "Jared", "beget": 162, "after": 800, "total": 962 },
+            { "name": "Enoch", "beget": 65, "after": 300, "total": 365 },
+            { "name": "Methuselah", "beget": 187, "after": 782, "total": 969 },
+            { "name": "Lamech", "beget": 182, "after": 595, "total": 777 },
+            { "name": "Noah", "beget": 502, "flood": 600, "total": 950 },
+            { "name": "Shem", "beget": 100, "after": 500 },
+            { "name": "Arphaxad", "beget": 35, "after": 403 },
+            { "name": "Shelah", "beget": 30, "after": 403 },
+            { "name": "Eber", "beget": 34, "after": 430 },
+            { "name": "Peleg", "beget": 30, "after": 209 },
+            { "name": "Reu", "beget": 32, "after": 207 },
+            { "name": "Serug", "beget": 30, "after": 200 },
+            { "name": "Nahor", "beget": 29, "after": 119 },
+            { "name": "Terah", "beget": 70, "total": 205 },
+            { "name": "Abraham", "total": 175 }
+        ]
+    },
+    "Septuagint": {
+        "genealogy": [
+            { "name": "Adam", "beget": 230, "after": 700, "total": 930 },
+            { "name": "Seth", "beget": 205, "after": 707, "total": 912 },
+            { "name": "Enos", "beget": 190, "after": 715, "total": 905 },
+            { "name": "Cainan", "beget": 170, "after": 740, "total": 910 },
+            { "name": "Maleleel", "beget": 165, "after": 730, "total": 895 },
+            { "name": "Jared", "beget": 162, "after": 800, "total": 962 },
+            { "name": "Enoch", "beget": 165, "after": 200, "total": 365 },
+            { "name": "Mathusala", "beget": 167, "after": 802, "total": 969 },
+            { "name": "Lamech", "beget": 188, "after": 565, "total": 753 },
+            { "name": "Noe", "beget": 502, "flood": 600, "total": 950 },
+            { "name": "Sem", "beget": 100, "after": 500 },
+            { "name": "Arphaxad", "beget": 135, "after": 400 },
+            { "name": "Cainan", "beget": 130, "after": 330 },
+            { "name": "Sala", "beget": 130, "after": 330 },
+            { "name": "Heber", "beget": 134, "after": 270 },
+            { "name": "Phaleg", "beget": 130, "after": 209 },
+            { "name": "Ragau", "beget": 132, "after": 207 },
+            { "name": "Seruch", "beget": 130, "after": 200 },
+            { "name": "Nachor", "beget": 179, "after": 125 },
+            { "name": "Tharrha", "beget": 70, "total": 205 },
+            { "name": "Abraham", "total": 175 }
+        ]
+    },
+    "Josephus": {
+        "genealogy": [
+            { "name": "Adam", "beget": 230, "after": 700, "total": 930 },
+            { "name": "Seth", "beget": 205, "total": 912 },
+            { "name": "Enos", "beget": 190, "total": 905 },
+            { "name": "Cainan", "beget": 170, "total": 910 },
+            { "name": "Malaleel", "beget": 165, "total": 895 },
+            { "name": "Jared", "beget": 162, "total": 962 },
+            { "name": "Enoch", "beget": 165, "total": 365 },
+            { "name": "Mathusala", "beget": 187, "total": 969 },
+            { "name": "Lamech", "beget": 182, "total": 777 },
+            { "name": "Noah", "beget": 502, "flood": 600, "total": 950 },
+            { "name": "Shem", "beget": 110 },
+            { "name": "Arphaxad", "beget": 135 },
+            { "name": "Sala", "beget": 130 },
+            { "name": "Heber", "beget": 134 },
+            { "name": "Phaleg", "beget": 130 },
+            { "name": "Ragau", "beget": 130 },
+            { "name": "Serug", "beget": 132 },
+            { "name": "Nahor", "beget": 120 },
+            { "name": "Terah", "beget": 70, "total": 205 },
+            { "name": "Abraham", "total": 175 }
+        ],
+        "statements": [
+            { "description": "Adam to Flood", "value": 2656 },
+            { "description": "Flood to Abraham", "value": 292 }
+        ]
+    },
+    "Samaritan": {
+        "genealogy": [
+            { "name": "Adam", "beget": 130, "after": 800, "total": 930 },
+            { "name": "Seth", "beget": 105, "after": 807, "total": 912 },
+            { "name": "Enos", "beget": 90, "after": 815, "total": 905 },
+            { "name": "Cainan", "beget": 70, "after": 840, "total": 910 },
+            { "name": "Mahalaleel", "beget": 65, "after": 830, "total": 895 },
+            { "name": "Jared", "beget": 162, "after": 785, "total": 847 },
+            { "name": "Enoch", "beget": 65, "after": 300, "total": 365 },
+            { "name": "Methuselah", "beget": 67, "after": 653, "total": 720 },
+            { "name": "Lamech", "beget": 53, "after": 600, "total": 653 },
+            { "name": "Noah", "beget": 502, "flood": 600, "after": 350, "total": 950 },
+            { "name": "Shem", "beget": 100, "after": 500, "total": 600 },
+            { "name": "Arphaxad", "beget": 135, "after": 303, "total": 438 },
+            { "name": "Salah", "beget": 130, "after": 303, "total": 433 },
+            { "name": "Eber", "beget": 134, "after": 270, "total": 404 },
+            { "name": "Peleg", "beget": 130, "after": 109, "total": 239 },
+            { "name": "Reu", "beget": 132, "after": 107, "total": 239 },
+            { "name": "Serug", "beget": 130, "after": 100, "total": 230 },
+            { "name": "Nahor", "beget": 79, "after": 69, "total": 148 },
+            { "name": "Terah", "beget": 70, "total": 145 },
+            { "name": "Abraham", "total": 175 }
+        ]
+    }
+}
