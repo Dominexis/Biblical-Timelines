@@ -23,6 +23,30 @@
             { "name": "Abraham", "total": 175 }
         ]
     },
+    "Aramaic": {
+        "genealogy": [
+            { "name": "Adam", "beget": 130, "after": 800, "total": 930 },
+            { "name": "Seth", "beget": 105, "after": 807, "total": 912 },
+            { "name": "Enosh", "beget": 90, "after": 815, "total": 905 },
+            { "name": "Kenan", "beget": 70, "after": 840, "total": 910 },
+            { "name": "Mahalalel", "beget": 65, "after": 830, "total": 895 },
+            { "name": "Jared", "beget": 162, "after": 800, "total": 962 },
+            { "name": "Enoch", "beget": 65, "after": 300, "total": 365 },
+            { "name": "Methuselah", "beget": 187, "after": 782, "total": 969 },
+            { "name": "Lamech", "beget": 182, "after": 595, "total": 777 },
+            { "name": "Noah", "beget": 502, "flood": 600, "total": 950 },
+            { "name": "Shem", "beget": 100, "after": 500 },
+            { "name": "Arpachshad", "beget": 35, "after": 403 },
+            { "name": "Salah", "beget": 30, "after": 403 },
+            { "name": "Heber", "beget": 34, "after": 430 },
+            { "name": "Peleg", "beget": 30, "after": 209 },
+            { "name": "Reu", "beget": 32, "after": 207 },
+            { "name": "Serug", "beget": 30, "after": 200 },
+            { "name": "Nahor", "beget": 29, "after": 119 },
+            { "name": "Terah", "beget": 75, "total": 205 },
+            { "name": "Abraham", "total": 175 }
+        ]
+    },
     "Septuagint": {
         "genealogy": [
             { "name": "Adam", "beget": 230, "after": 700, "total": 930 },
@@ -32,7 +56,7 @@
             { "name": "Maleleel", "beget": 165, "after": 730, "total": 895 },
             { "name": "Jared", "beget": 162, "after": 800, "total": 962 },
             { "name": "Enoch", "beget": 165, "after": 200, "total": 365 },
-            { "name": "Mathusala", "beget": 167, "after": 802, "total": 969 },
+            { "name": "Mathusala", "beget": 187, "after": 802, "total": 969, "comment": "Many LXX texts record 167 as the beget age, when this is an error and should read 187" },
             { "name": "Lamech", "beget": 188, "after": 565, "total": 753 },
             { "name": "Noe", "beget": 502, "flood": 600, "total": 950 },
             { "name": "Sem", "beget": 100, "after": 500 },
